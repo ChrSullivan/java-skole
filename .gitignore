@@ -3,5 +3,9 @@ Thumbs.db
 Desktop.ini
 .DS_Store
 
+# TextPad-specific
+*.BAT
+*.bat
+
 # Compiled
 *.class
